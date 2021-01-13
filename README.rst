@@ -283,7 +283,7 @@ get video info (-i):
 
     $ ytdl -i cyMHZVT91Dw
 
-list available dowload streams:
+list available download streams:
 
 .. code-block:: bash
 
